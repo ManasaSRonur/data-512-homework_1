@@ -6,7 +6,7 @@
 
 The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic from the English Wikipedia for a predefined list of rare disease articles. The timeframe for data collection is from **July 1, 2015, through September 30, 2024**. This data will be used to generate three distinct time series datasets that record desktop, mobile, and cumulative (desktop + mobile) pageviews for each article. The main objective is to ensure reproducibility in data collection and analysis while following best practices for open scientific research, allowing for transparency and validation.
 
-### Analysis Details
+Analysis Goals
 
 The project includes the following analyses:
 
