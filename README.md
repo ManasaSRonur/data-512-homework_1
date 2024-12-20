@@ -1,5 +1,5 @@
 
-## Wikipedia Articles Traffic Analysis (Jul 2015 - Sep 2024)
+# Wikipedia Articles Traffic Analysis (Jul 2015 - Sep 2024)
 
 ### Project Overview
 
