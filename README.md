@@ -1,4 +1,3 @@
-# DATA 512 Homework 1: Professionalism & Reproducibility
 
 ## Wikipedia Articles Traffic Analysis (Jul 2015 - Sep 2024)
 
